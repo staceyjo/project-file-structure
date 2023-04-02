@@ -1,0 +1,6 @@
+[
+  "tests/test_addition.py::test_addition",
+  "tests/test_division.py::test_division",
+  "tests/test_multiplication.py::test_multiplication",
+  "tests/test_subtraction.py::test_subtraction"
+]
